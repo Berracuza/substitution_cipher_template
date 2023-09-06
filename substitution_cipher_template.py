@@ -1,6 +1,4 @@
 #!/bin/python3.8
-import operator
-import string
 
 encrypted_task = """
 MESSAGE
