@@ -1,14 +1,8 @@
 #!/bin/python3.8
 
 encrypted_task = """
-MESSAGE
+Gp&&.yp
 """
-
-
-#chars = string.ascii_letters + string.punctuation
-#print(chars)
-#chars = string.ascii_letters + string.punctuation + string.digits
-#print(chars)
 
 s = encrypted_task
 
